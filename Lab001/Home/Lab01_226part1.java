@@ -1,4 +1,3 @@
-package week1;
 import java.util.Scanner;
 import java.text.DecimalFormat;
 public class bai226phan1 {
