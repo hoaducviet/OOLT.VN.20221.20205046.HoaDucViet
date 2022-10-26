@@ -1,4 +1,3 @@
-package week1;
 import javax.swing.JOptionPane;
 
 public class bai61week1 {
