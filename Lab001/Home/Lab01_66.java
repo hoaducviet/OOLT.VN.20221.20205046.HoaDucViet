@@ -1,4 +1,4 @@
-package week1;
+
 import java.util.Scanner;
 public class bai66week1 {
 	 public static void main(String args[])
